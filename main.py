@@ -51,5 +51,3 @@ async def handle_message(message: cl.Message):
 
 
 
-
-#  Manager: handoff the task to manger
