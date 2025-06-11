@@ -135,9 +135,3 @@ wrapt==1.17.2
 wsproto==1.2.0
 yarl==1.20.0
 zipp==3.22.0
-python-dotenv
-chainlit
-openai
-httpx
-anyio
-google-generativeai
