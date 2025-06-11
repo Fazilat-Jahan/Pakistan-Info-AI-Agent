@@ -1,1 +1,1 @@
-web: chainlit run main.py --host 0.0.0.0 --port $PORT
+web: python -m chainlit run main.py --host 0.0.0.0 --port $PORT
