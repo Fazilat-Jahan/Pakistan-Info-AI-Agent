@@ -1,4 +1,3 @@
--
 # 🇵🇰 Pakistan-Info AI Agent
 
 This project is a **custom conversational AI assistant** designed specifically to **respond only to queries related to Pakistan**. It’s built using OpenAI's powerful **Agent SDK**, integrated with **Gemini 2.0 Flash** as the Large Language Model (LLM), and uses **Chainlit** to provide a simple and interactive chat interface.
