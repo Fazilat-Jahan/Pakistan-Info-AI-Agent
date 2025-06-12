@@ -31,6 +31,14 @@ assistant = Agent(
         instructions= "Only answer queries about Pakistan. If the question is not about Pakistan, say: 'I can only answer questions about Pakistan.",
         # model = model
     )
+
+@cl.on_chat_start
+async def start():
+    cl.user_session.set("name", "Pakistan AI Agent")
+    await cl.Message(
+        content="Hello! I am the Pakistan AI Agent. How can I assist you today?").send()
+
+
 # Chainlit message handler
 @cl.on_message
 async def handle_message(message: cl.Message):

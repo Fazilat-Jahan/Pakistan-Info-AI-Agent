@@ -69,3 +69,9 @@ This assistant can be used for:
 
 ---
 
+
+🌐 Connect with Me
+I'd love to connect and collaborate on projects or ideas!
+
+- 🔗 [LinkedIn](https://www.linkedin.com/in/fazilat-jahan-web-developer)
+- 🐦 [Twitter](https://x.com/ItxFaziSays)
